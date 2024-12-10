@@ -1,6 +1,6 @@
-A sample project to test SonarQube and ESLint plugins of **ecoCode-javascript**.
+A sample project to test SonarQube and ESLint plugins of **creedengo-javascript**.
 
-👉 See [ecoCode-javascript](https://github.com/green-code-initiative/ecoCode-javascript) project.
+👉 See [creedengo-javascript](https://github.com/green-code-initiative/creedengo-javascript) project.
 
 ## Purpose of this project
 
@@ -9,8 +9,8 @@ The files in this repository contain both compliant and non-compliant code.
 
 ### 1. Setup local environment
 
-First, follow [this complete guide](https://github.com/green-code-initiative/ecoCode-common/blob/main/doc/INSTALL.md#howto-install-sonarqube-dev-environment) to install your local SonarQube development environment. \
-Then, check that _ecoCode_ rules are enabled in the quality profile that will be used during the analysis.
+First, follow [this complete guide](https://github.com/green-code-initiative/creedengo-common/blob/main/doc/HOWTO.md#installing-local-environment-local-sonarqube) to install your local SonarQube development environment. \
+Then, check that _creedengo_ rules are enabled in the quality profile that will be used during the analysis.
 
 You will also need some JavaScript tools installed on your computer:
 

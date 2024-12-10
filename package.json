@@ -1,10 +1,10 @@
 {
-  "name": "ecocode-javascript-test-project",
+  "name": "creedengo-javascript-test-project",
   "version": "1.0.0",
-  "description": "JavaScript project to test ESLint and SonarQube plugins of ecoCode",
+  "description": "JavaScript project to test ESLint and SonarQube plugins of creedengo",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/green-code-initiative/ecoCode-javascript-test-project.git"
+    "url": "git+https://github.com/green-code-initiative/creedengo-javascript-test-project.git"
   },
   "license": "GPL-3.0",
   "author": "Green Code Initiative",
