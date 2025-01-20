@@ -49,6 +49,7 @@ web_modules/
 .yarn-integrity
 
 # Sonar scanner work
+.sonar
 .scannerwork
 
 # Stores VSCode versions used for testing VSCode extensions
