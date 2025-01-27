@@ -4,11 +4,11 @@ function AudioComponent() {
     return (
         <div>
             {/* Compliant */}
-            <audio preload="none" > <track kind="captions"/></audio>
+            <audio preload="none"><track kind="captions"/></audio>
             {/* Non-compliant */}
-            <video autoplay><track kind="captions"/> </video>
+            <video autoPlay><track kind="captions"/></video>
             {/* Non-compliant */}
-            <video preload="auto" ><track kind="captions"/></video>
+            <video preload="auto"><track kind="captions"/></video>
         </div>
     );
 }
