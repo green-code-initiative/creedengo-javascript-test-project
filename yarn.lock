@@ -7,10 +7,10 @@
   resolved "https://registry.yarnpkg.com/@aashutoshrathi/word-wrap/-/word-wrap-1.2.6.tgz#bd9154aec9983f77b3a034ecaa015c2e4201f6cf"
   integrity sha512-1Yjs2SvM8TflER/OD3cOjhWWOZb58A2t7wpE2S9XfBYTiIl+XFhQG2bjy4Pu1I+EAlCNUzRDYDdFwFYUKvXcIA==
 
-"@ecocode/eslint-plugin@^1.5.0":
-  version "1.5.0"
-  resolved "https://registry.yarnpkg.com/@ecocode/eslint-plugin/-/eslint-plugin-1.5.0.tgz#972a02b92adeb7acd2c6ec4b734d0b49b17b8e66"
-  integrity sha512-q2WBsKw4C/z1mS0lACAkkxPKfTjEj0PbGeFk58bYZW4Bs2A/VHf5epmQOmx9QrPBm6xWY49goH7MZRTfaNqT7w==
+"@creedengo/eslint-plugin@^2.1.0":
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@creedengo/eslint-plugin/-/eslint-plugin-2.1.0.tgz#6fa9ab6d142542098df7a87092a53cc7199d1dfc"
+  integrity sha512-nbSCWbKGIC1QRMwGfjF8q4V9JT/JUv86mMhjOylqP2uol+u2jtus/cTv207VVYVt6bLQ49WEKk1Qfn9FzRlxEA==
 
 "@eslint-community/eslint-utils@^4.2.0", "@eslint-community/eslint-utils@^4.4.0":
   version "4.4.0"

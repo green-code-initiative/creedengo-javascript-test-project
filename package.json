@@ -14,7 +14,7 @@
     "sonar": "sonar-scanner"
   },
   "devDependencies": {
-    "@ecocode/eslint-plugin": "^1.5.0",
+    "@creedengo/eslint-plugin": "^2.1.0",
     "@nestjs/common": "^10.3.8",
     "@typescript-eslint/eslint-plugin": "^7.7.1",
     "@typescript-eslint/parser": "^7.7.1",
